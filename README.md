@@ -1,14 +1,8 @@
 ## Hi there. Welcome to My Github! 💩
 
-<p> 🔒 안녕하세요. 제 이름은 이예준입니다.
-  <br/> 
-  현재 대학교 4학년 정보보호학과에 재학중이며 보안전문가를 꿈꾸고 있습니다.
-</p>
+<p> 🔒 안녕하세요. 제 이름은 이예준입니다. </p>
 
-<p> 🔒 hello. My name is Yejun Lee.
-  <br/> 
-I am currently a 4th year student majoring in information security and dream of becoming a security expert.
-</p>
+<p> 🔒 hello. My name is Yejun Lee. </p>
 
 
 ### 🛠️ Languages and Tools
